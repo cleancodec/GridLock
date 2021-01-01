@@ -1,18 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="41480598-33dd-4adb-8a05-4b8487960089" name="Default Changelist" comment="" />
+    <list default="true" id="41480598-33dd-4adb-8a05-4b8487960089" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Gridlock/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Gridlock/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Gridlock/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Gridlock/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gridlock/Scripts/controllerScript.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Gridlock/Scripts/controllerScript.cs" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Gridlock/Scripts/gamePlayScript.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Gridlock/Scripts/uiManagerScript.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Gridlock/Scripts/storePageScript.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Gridlock/Scripts/levelsMenuScript.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Gridlock/Scripts/gamePlayScript.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Gridlock/Scripts/mainMenuScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Gridlock/Scripts/levelsMenuScript.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -20,15 +45,16 @@
         <option value="$PROJECT_DIR$/Assets/Gridlock/Scripts/mainMenuScript.cs" />
         <option value="$PROJECT_DIR$/Assets/Gridlock/Scripts/levelsMenuScript.cs" />
         <option value="$PROJECT_DIR$/Assets/Gridlock/Scripts/settingsMenuScript.cs" />
-        <option value="$PROJECT_DIR$/Assets/Gridlock/Scripts/controllerScript.cs" />
         <option value="$PROJECT_DIR$/Assets/Gridlock/Scripts/storePageScript.cs" />
         <option value="$PROJECT_DIR$/Assets/Gridlock/Scripts/upgradesMenuScript.cs" />
         <option value="$PROJECT_DIR$/Assets/Gridlock/Scripts/uiManagerScript.cs" />
         <option value="$PROJECT_DIR$/Assets/Gridlock/Scripts/gamePlayScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Gridlock/Scripts/controllerScript.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectId" id="1mLJi81FV9dZwoTE5Atqak0pxKc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -75,6 +101,7 @@
       <workItem from="1609383110313" duration="5407000" />
       <workItem from="1609411126984" duration="10538000" />
       <workItem from="1609497584750" duration="491000" />
+      <workItem from="1609500647389" duration="2773000" />
     </task>
     <servers />
   </component>
@@ -83,6 +110,17 @@
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
